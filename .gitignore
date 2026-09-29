@@ -2,3 +2,8 @@ node_modules
 dist
 .env
 *.log
+server/storage
+server/voice-presets/archive
+server/voice-presets/*.bak
+server/voice-presets/*.tmp
+server/data

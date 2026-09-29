@@ -1,0 +1,122 @@
+{
+  "grace": {
+    "file": "grace-muda522v.mp3",
+    "sampleText": "You know, I've been thinking about this a lot... and honestly, there's no rush.",
+    "prompt": "Woman, 34. Warm, velvety, medium-low voice. Calm, thoughtful and reassuring, like a podcast host in an honest late-evening conversation. Unhurried pace, soft pauses, gentle intonation. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like.",
+    "createdAt": 1790118172619
+  },
+  "emma": {
+    "file": "emma-mue37vla.mp3",
+    "sampleText": "Oh, you betcha! So I walk into the store, right, and ope, I just about knock over the whole display. Ha, everybody turned around!",
+    "prompt": "Woman, 27, from Minnesota with a friendly Midwestern accent and long rounded vowels. Warm, round, medium voice. Easygoing girl next door who laughs easily, casual storytelling with fillers, friendly and completely unscripted. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167013043
+  },
+  "chloe": {
+    "file": "chloe-mue37i9o.mp3",
+    "sampleText": "Okay, so, like, I literally found the cutest café yesterday? And the matcha was, like, so good. I'm not even kidding, you guys have to go.",
+    "prompt": "Woman, 23, from Los Angeles with a Californian accent. Medium-pitched voice with vocal fry at the ends of phrases and rising uptalk. Chatty lifestyle influencer, relaxed and bubbly, says \"like\" and \"literally\" a lot, talks to the listener like a best friend. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790166995787
+  },
+  "rachel": {
+    "file": "rachel-mue37o1t.mp3",
+    "sampleText": "Good morning, everybody, and welcome back! We've got sunshine, a surprise guest, and the best pancake recipe you'll ever try. Stay with us!",
+    "prompt": "Woman, 36, American morning TV host with a clean broadcast accent. Bright, clear, well-trained medium voice with crisp articulation and good projection. Upbeat and energetic, a big smile in the voice, lively intonation, polished but warm. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167003268
+  },
+  "victoria": {
+    "file": "victoria-mue38fg6.mp3",
+    "sampleText": "Voilà, you see? The coat is simple, the shoes are simple... and together, they are magnifique. Style is not effort, chérie. It is confidence.",
+    "prompt": "Woman, 30, Parisian speaking English with a light, charming French accent. Silky, smooth, medium-low voice. Elegant and self-assured, measured pace, soft rolling intonation and a subtle smile, like a stylist in a Paris boutique. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167038777
+  },
+  "zoe": {
+    "file": "zoe-mue38cfl.mp3",
+    "sampleText": "Okay, okay, look at this, eh? Ten minutes on the charger, full battery, and it's not even warm. Sorry, but that is honestly just unreal!",
+    "prompt": "Woman, 25, from Toronto with a light Canadian accent. Clear, ringing, crisp medium voice. Talks very fast and excitedly, like a tech reviewer who cannot wait to show the next feature: rapid rhythm, quick breaths, animated. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167034869
+  },
+  "jade": {
+    "file": "jade-mue37zcm.mp3",
+    "sampleText": "Nah, listen, yeah? I told him straight: you're not bringing that rubbish round my flat again. Honestly, the cheek of it. Unbelievable, innit?",
+    "prompt": "Woman, 22, from East London with a strong London accent, dropped t-sounds and glottal stops. Husky, slightly gritty, medium-low voice. Sassy, cheeky and fast-talking, playful sarcasm, confident street attitude. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167017913
+  },
+  "sam": {
+    "file": "sam-mue38mbg.mp3",
+    "sampleText": "So I tried meditation. Twenty minutes, total silence, I finally found my inner self... and she was also annoyed. Great. Very relaxing.",
+    "prompt": "Woman, 29, from Brooklyn with a noticeable New York accent. Dry, slightly nasal, medium-low voice. Deadpan and nearly monotone: flat, unimpressed delivery, sarcastic understatement, a small pause before each punchline, never laughs at her own jokes. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167047678
+  },
+  "lily": {
+    "file": "lily-mue38a66.mp3",
+    "sampleText": "Now... let the breath come in, nice and slow. Sure, there's no rush at all. Let the shoulders go soft... and just rest there a while.",
+    "prompt": "Woman, 33, from the west of Ireland with a soft, lilting Irish accent. Airy, gentle, medium-pitched voice with a little breath in it. Very slow and calm, long peaceful pauses, soothing melodic intonation, like a yoga teacher at sunset. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167031936
+  },
+  "bella": {
+    "file": "bella-mue38v4p.mp3",
+    "sampleText": "Oh my gosh, stop! Look at this shade, it's literally glowing! I've been waiting for this all year, and it's even better than I imagined!",
+    "prompt": "Woman, 24, American beauty blogger. Bright, slightly nasal, medium-pitched adult voice. Very fast and very emotional: little gasps, excited emphasis and exclamations, words tumbling out, genuinely thrilled. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167059101
+  },
+  "ava": {
+    "file": "ava-muda6s7w.mp3",
+    "sampleText": "Close your eyes... take a slow, deep breath... that's it. Just let yourself rest.",
+    "prompt": "Woman, 28. Soft, breathy, airy voice, speaking quietly and close to the microphone in a gentle half-whisper. Soothing, tender and intimate, slow and calm. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like.",
+    "createdAt": 1790118253149
+  },
+  "catherine": {
+    "file": "catherine-mue38vjj.mp3",
+    "sampleText": "Okay, here's where we are. Revenue is up, costs are flat, and the deadline does not move. I need answers by Friday. Questions? Good. Let's go.",
+    "prompt": "Woman, 38, American executive with a polished, neutral accent. Low, crisp, firm voice with precise consonants. Fast, confident and decisive: short sentences, no hesitation, calm authority, like she is chairing the board meeting. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167059636
+  },
+  "sarah": {
+    "file": "sarah-mue38w9x.mp3",
+    "sampleText": "No problem at all, take your time. We'll do it step by step, okay? First the formula, then one small example. See? You're getting it already.",
+    "prompt": "Woman, 35, from Bangalore speaking English with a light Indian accent. Warm, clear, medium voice with gentle, careful articulation. Patient and kind teacher, calm encouraging pace, smiles while explaining, reassuring. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167060585
+  },
+  "scarlett": {
+    "file": "scarlett-mue39in4.mp3",
+    "sampleText": "Darling, the theatre was half empty, and still... I played every line as if the whole of London were listening. That is the job, my dear.",
+    "prompt": "Woman, 31, English stage actress with a refined British accent. Low-pitched, dark, rich contralto voice resonating from the chest. Theatrical and slow: long dramatic pauses, savours every word, stays low and never shrill even at emotional peaks. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167089572
+  },
+  "mia": {
+    "file": "mia-mue392mt.mp3",
+    "sampleText": "Haha, no way, mate! You drove all the way to the beach and forgot your swimmers? Reckon that's the funniest thing I've heard all week.",
+    "prompt": "Woman, 21, from Sydney with a broad Australian accent. Clear, bright, medium-pitched adult voice. Playful and teasing, laughs in the middle of sentences, relaxed and cheeky, big rises and falls in intonation. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167068823
+  },
+  "roxy": {
+    "file": "roxy-mue39cl5.mp3",
+    "sampleText": "Well, honey, y'all can argue about it all night long. I'll just pour another one, sit right here, and wait for somebody to admit I was right.",
+    "prompt": "Woman, 39, from Texas with a slow Southern drawl. Low, smoky, slightly raspy voice with vocal fry at the ends of phrases. Laid-back and lazily ironic, stretched vowels, unhurried and amused, like a bartender who has heard every story twice. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167081724
+  },
+  "luna": {
+    "file": "luna-mue39429.mp3",
+    "sampleText": "Do you ever look up at the stars and feel... like they're looking back? I think every single one of them has a story, just waiting for us.",
+    "prompt": "Woman, 20, with a soft American accent. Hazy, slightly husky, medium-low voice with some air in it, speaking softly but not whispering. Dreamy and wistful, slow, drifting melodic intonation, as if thinking aloud under the night sky. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167070677
+  },
+  "ellie": {
+    "file": "ellie-mue39bpn.mp3",
+    "sampleText": "Um, hi... sorry, my English is, um, not perfect. I just wanted to say thank you, really. Bueno, it meant a lot to me, you know?",
+    "prompt": "Woman, 19, from Madrid speaking English with a light Spanish accent. Quiet, soft, medium-pitched adult voice. Shy and hesitant: small pauses, \"um\" and self-corrections, a nervous little laugh, warm and sincere. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167080589
+  },
+  "riley": {
+    "file": "riley-mue39jay.mp3",
+    "sampleText": "Listen to me. Nobody's coming to hand you the stage. You plug in, you turn it up, and you play like it's the last night on earth. Got it?",
+    "prompt": "Woman, 26, American rock singer. Raspy, powerful, medium-low voice with grit and real volume. Assertive and punchy, hits key words hard, fast and direct, raw fearless energy. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167090433
+  },
+  "maddie": {
+    "file": "maddie-mue39ju7.mp3",
+    "sampleText": "Wait, so you're telling me the library's open all night? Aye, that's brilliant, like. I'd have been in there every single day if I'd known!",
+    "prompt": "Woman, 18, a first-year university student from Glasgow with a strong Scottish accent. Lively, clear, medium-pitched adult voice. Curious and animated, quick pace, rising intonation at the ends of sentences, sincere and a bit amazed. Natural, human delivery with real emotion, subtle breaths and unforced pauses; never robotic or announcer-like. The speaker is clearly an adult between 18 and 40, not a child, a teenager or an elderly person.",
+    "createdAt": 1790167091131
+  }
+}

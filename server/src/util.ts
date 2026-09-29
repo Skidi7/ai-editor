@@ -1,8 +1,10 @@
 /** Parses a data URL into its mime type and raw bytes. */
 export function parseDataUrl(dataUrl: string): { mime: string; buffer: Buffer } {
-  const m = /^data:([^;,]+)(;base64)?,(.*)$/s.exec(dataUrl);
+  // Media types may carry parameters (e.g. "video/webm;codecs=vp9,opus;base64,..."), so split on the last comma
+  // of the header, not the first.
+  const m = /^data:([^,]*?)(;base64)?,(.*)$/s.exec(dataUrl);
   if (!m) throw new Error('Invalid data URL');
-  const mime = m[1];
+  const mime = (m[1].split(';')[0] || 'application/octet-stream').trim();
   const payload = m[3];
   const buffer = m[2] ? Buffer.from(payload, 'base64') : Buffer.from(decodeURIComponent(payload), 'utf8');
   return { mime, buffer };

@@ -174,3 +174,106 @@ export const IconCheck = (p: P) => (
     <path d="M5 12l5 5L20 7" />
   </svg>
 );
+
+/* ---- Video Studio ---- */
+export const IconPlay = (p: P) => (
+  <svg {...base(p)} fill="currentColor" stroke="none">
+    <path d="M7 5v14l12-7z" />
+  </svg>
+);
+export const IconPause = (p: P) => (
+  <svg {...base(p)} fill="currentColor" stroke="none">
+    <rect x="6" y="5" width="4" height="14" rx="1" />
+    <rect x="14" y="5" width="4" height="14" rx="1" />
+  </svg>
+);
+export const IconImage = (p: P) => (
+  <svg {...base(p)}>
+    <rect x="3" y="4" width="18" height="16" rx="2" />
+    <circle cx="9" cy="10" r="2" />
+    <path d="M21 16l-5-5-8 8" />
+  </svg>
+);
+export const IconMic = (p: P) => (
+  <svg {...base(p)}>
+    <rect x="9" y="3" width="6" height="11" rx="3" />
+    <path d="M5 11a7 7 0 0014 0M12 18v3M8 21h8" />
+  </svg>
+);
+export const IconType = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M5 6V4h14v2M12 4v16M9 20h6" />
+  </svg>
+);
+export const IconFilm = (p: P) => (
+  <svg {...base(p)}>
+    <rect x="3" y="4" width="18" height="16" rx="2" />
+    <path d="M7 4v16M17 4v16M3 9h4M3 15h4M17 9h4M17 15h4" />
+  </svg>
+);
+export const IconRefresh = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M20 12a8 8 0 01-14.5 4.6M4 12a8 8 0 0114.5-4.6" />
+    <path d="M20 4v4h-4M4 20v-4h4" />
+  </svg>
+);
+export const IconUser = (p: P) => (
+  <svg {...base(p)}>
+    <circle cx="12" cy="8" r="4" />
+    <path d="M4 21a8 8 0 0116 0" />
+  </svg>
+);
+export const IconMusic = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M9 18V6l11-2v12" />
+    <circle cx="6" cy="18" r="3" />
+    <circle cx="17" cy="16" r="3" />
+  </svg>
+);
+export const IconGrid = (p: P) => (
+  <svg {...base(p)}>
+    <rect x="3" y="4" width="18" height="4" rx="1" />
+    <rect x="3" y="10" width="18" height="4" rx="1" />
+    <rect x="3" y="16" width="18" height="4" rx="1" />
+  </svg>
+);
+export const IconBreak = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M12 3v18M5 8l3 4-3 4M19 8l-3 4 3 4" />
+  </svg>
+);
+export const IconArrowUp = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M12 19V5M5 12l7-7 7 7" />
+  </svg>
+);
+export const IconArrowDown = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M12 5v14M5 12l7 7 7-7" />
+  </svg>
+);
+export const IconCopy = (p: P) => (
+  <svg {...base(p)}>
+    <rect x="9" y="9" width="11" height="11" rx="2" />
+    <path d="M5 15V6a2 2 0 012-2h9" />
+  </svg>
+);
+/* ---- Voice Studio ---- */
+export const IconWave = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M3 10v4M7 7v10M11 4v16M15 8v8M19 11v2" />
+  </svg>
+);
+export const IconWand = (p: P) => (
+  <svg {...base(p)}>
+    <path d="M4 20l10-10M14 4l1.5 1.5M18 8l1.5 1.5M9 3l.7 2M20 13l-2 .7M15 8l4-4" />
+  </svg>
+);
+/* ---- Face Swap ---- */
+export const IconFaceSwap = (p: P) => (
+  <svg {...base(p)}>
+    <circle cx="8" cy="9" r="4" />
+    <path d="M2.5 20a5.5 5.5 0 0111 0" />
+    <path d="M15 4.5h4.5V9M19.5 4.5L15 9M21 15h-4.5v4.5M16.5 15l4.5 4.5" />
+  </svg>
+);
